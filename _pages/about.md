@@ -17,42 +17,78 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ <p>Hello, thank you for coming over. I am a PhD Student in the <a href="https://lisms.auckland.ac.nz">Laboratory for Industry 4.0 Smart Manufacturing Systems</a> at the Faculty of Engineering, University of Auckland. I am supervised by <a href="https://profiles.auckland.ac.nz/x-xu">Professor Xun Xu</a>. My research interests include <strong>smart manufacturing systems</strong>, <strong>autonomous manufacturing</strong>, and <strong>industrial AI</strong>. My current research focuses on agentic manufacturing, aiming to develop intelligent, autonomous manufacturing systems capable of self-organising manufacturing resources. </p>
+  <p>Before joining the University of Auckland, I received my Master's degree from the <strong>University of Electronic Science and Technology of China (UESTC)</strong>, where I worked in the <a href="http://www.ultraxlab.com">Shensi Lab</a>. I obtained my Bachelor's degree from <strong>Zhengzhou University</strong>.</p>
+  
+# 🔥 Research Focus
+1. **Agentic Manufacturing Systems** – Autonomous and intelligent manufacturing systems capable of self-organizing and coordinating manufacturing resources through multi-agent collaboration.
+2. **Industrial AI** – Data and learning-driven methods for process optimization, adaptive control, and decision-making in manufacturing.
+3. **Digital Twin and Smart Manufacturing** – Integration of digital twins and cyber-physical systems for connected, resilient production environments.. 
 
 # 📝 Publications 
+### 🧠 Papers (First Author)
+1. **Yinwang Ren**, et al. (2025). AI Agents and Agentic AI-navigating a plethora of concepts for future manufacturing. _Journal of Manufacturing Systems_ <strong>(CAS Q1 Top Journal)</strong>. [DOI](https://doi.org/10.1016/j.jmsy.2025.08.017)  
+2. **Yinwang Ren**, et al. (2024). A Novel Six-Dimensional Digital Twin Model for Data Management and its Application in Roll Forming. _Advanced Engineering Informatics_ <strong>(CAS Q1 Top Journal)</strong>. [DOI](https://doi.org/10.1016/j.aei.2024.102555)  
+3. **Yinwang Ren**, et al. (2024). Intelligent Roll Forming Equipment (System) and Analysis of Its Application Cases. _Transactions of Nanjing University of Aeronautics and Astronautics_. [DOI](https://doi.org/10.16356/j.1005-2615.2024.01.005)  
+4. **Yinwang Ren**, et al. (2022). Digitization of Roll Forming and Its Application. _The 19th International Conference on Metal Forming (MF 2022)_. [DOI](https://doi.org/10.1088/1757-899X/1270/1/012010)  
+---
+### 🧩 Papers (Co-author)
+1. Jingsheng He, Shiyi Cu, Hui Xia, Yong Sun, Wenchao Xiao, **Yinwang Ren**. (2025). High Accuracy Roll Forming Springback Prediction Model of SVR Based on SA-PSO Optimization. _Journal of Intelligent Manufacturing_. [DOI](https://doi.org/10.1007/s10845-023-02222-0)  
+2. Jie Dong, **Yinwang Ren**, et al. (2024). A novel real data-driven springback prediction method for roll forming based on digital twin. _International Journal of Computer Integrated Manufacturing_. [DOI](https://doi.org/10.1080/0951192X.2025.2478012)  
+3. J. He, **Y. Ren**, et al. (2024). Data-Driven Approach for Minimizing Springback in Roll Forming: An Adaptive Process Parameter Control Strategy. _43rd Conference of the International Deep Drawing Research Group (IDDRG 2024)_. [DOI](https://doi.org/10.1088/1757-899X/1307/1/012033)  
+---
+### 📘 Book / Book Chapter
+1. *Flexible 3D Profile Roll Forming Technology.* In *Flexible Metal Forming Technologies*, Chapter 5, 2022. [DOI](https://doi.org/10.1007/978-981-19-1348-8)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📖 Patent
+#### 🏅 Granted Patents / 已授权专利
+1. *A Scan Measurement Device for Online Detection.* **一种可在线检测的扫描测量仪**  
+   Yong Sun, **Yinwang Ren**, Jingsheng He, Qiuquan Guo, Dongxing Zhang, Jun Yang.  
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+2. *A Method for Establishing Target Prediction Optimization Model Based on Full Feature Fusion.* **—种基于全特征融合建立目标预判优化模型的方法**  
+   Chao Li, Guangqiang Yin, Zhiqao Wang, Fei Tang, **Yinwang Ren**, Xiaoyu Yang, Ruoxi Lin.  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+3. *Method, System and Medium for Nonlinear Mechanics Simulation and Prediction of Solid Materials.* **一种用于固体材料非线性力学仿真与预测的方法、系统及介质**  
+   Yong Sun, Jun Yang, Dongxing Zhang, Qiuquan Guo, Shichao Ding, **Yinwang Ren**.  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+---
+#### 🔬 Pending Patents / 在审专利
+1. *An Artificial Intelligence Algorithm for Predicting and Controlling Roll Forming.* **一种用于预测与控制辊压成型的人工智能算法**  
+   Yong Sun, **Yinwang Ren**, Jingsheng He, Qiuquan Guo, Dongxing Zhang, Jun Yang.  
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+2. *A Method for Interacting between Digital Twin Models and Roll Forming Equipment.* **一种用于数字孪生模型与智能辊压成形装备之间的交互方法**  
+   Yong Sun, **Yinwang Ren**, Jingsheng He, Qiuquan Guo, Dongxing Zhang, Jun Yang.  
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+3. *A Precision Roll Forming System Combining Digital Twin Technology.* **一种集合数字孪生技术的精密辊压成形系统**  
+   Yong Sun, **Yinwang Ren**, Jingsheng He, Qiuquan Guo, Dongxing Zhang, Jun Yang.  
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+4. *Flexible Roll Forming Equipment with Variable Section.* **一种可变截面柔性辊压成形装备**  
+   Yong Sun, Ziliu Xiong, **Yinwang Ren**, Jiang Liu, Jun Yang, Qiuquan Guo.  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+5. *Variable-Section Flexible Roll Forming Process.* **一种可变截面柔性辊压成形工艺**  
+   Yong Sun, Ziliu Xiong, **Yinwang Ren**, Jiang Liu, Jun Yang, Qiuquan Guo.  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+6. *A Roll Forming Production System Based on Electro-Cylinder Control.* **一种基于电缸控制的辊压成形生产系统**  
+   Yong Sun, Junlang Guo, **Yinwang Ren**, Jiang Liu, Zhengxun Zhang, Zhenxi Wu, Xiaofeng Xiao, Ziliu Xiong, Kang Wu, Jianjun Yin, Jun Yang, Feng Pan, Hongzhou Wang.  
+
+7. *One Residual Stress Detection Device and Method.* **一种残余应力检测装置及方法**  
+   Yong Sun, Jun Yang, Dongxing Zhang, Qiuquan Guo, Shichao Ding, **Yinwang Ren**.
+
+# 💬 Conference Participation
+- The 8th International Conference on Digital Twin and Intelligent Manufacturing Services, Hangzhou, China, July 2024.  
+- The 18th National Conference on Plastic Engineering & The 10th Global Chinese Plastic Technology Symposium, Wuhan, China, October 2023.  
+- 2023 NSFC-RGC Conference on Frontiers of Industrial Big Data and Intelligent Systems, Hong Kong, China, April 2023.  
+- The 19th International Conference on Metal Forming (MF 2022), Taiyuan, Shanxi, China, September 2022.
+
+# 💻 Honors and Awards
+| Award | Level | Type | Date |
+|--------|--------|--------|--------|
+| **National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)** | National | Innovation | **2025** |
+| **National Graduate Scholarship** | National | Honor | **2023** |
+| **National Graduate Scholarship** | National | Honor | **2022** |
+| **Sichuan Province Outstanding Graduate** | Provincial | Honor | **2023** |
+| **UESTC Outstanding Graduate** | University | Honor | **2023** |
+| **"Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition – Second Prize (Team Leader)** | National | Innovation | **2023** |
+| **Best Poster Presentation** – Guangdong Province Postgraduates Academic Forum | Provincial | Competition | **2022** |
+| **China Robot Competition – Second Prize (Team Leader)** | National | Competition | **2019** |
+| **ROBOCUP Robot World Cup China Competition – Second Prize** | National | Competition | **2019** |
