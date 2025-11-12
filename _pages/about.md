@@ -86,30 +86,30 @@ redirect_from:
 <span class='anchor' id='honors-and-awards'></span>
 # 🏆Honors and Awards
 
-**National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)**  
-*Level:* National  *Type:* Innovation  *Date:* **2025**
+   **National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)**  
+   *Level:* National  *Type:* Innovation  *Date:* **2025**
+  
+   **National Graduate Scholarship**  
+   *Level:* National  *Type:* Honor  *Date:* **2023**
 
-**National Graduate Scholarship**  
-*Level:* National  *Type:* Honor  *Date:* **2023**
+   **National Graduate Scholarship**  
+   *Level:* National  *Type:* Honor  *Date:* **2022**
 
-**National Graduate Scholarship**  
-*Level:* National  *Type:* Honor  *Date:* **2022**
+   **Sichuan Province Outstanding Graduate**  
+   *Level:* Provincial  *Type:* Honor  *Date:* **2023**
 
-**Sichuan Province Outstanding Graduate**  
-*Level:* Provincial  *Type:* Honor  *Date:* **2023**
+   **UESTC Outstanding Graduate**  
+   *Level:* University  *Type:* Honor  *Date:* **2023**
 
-**UESTC Outstanding Graduate**  
-*Level:* University  *Type:* Honor  *Date:* **2023**
+   **"Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition – Second Prize (Team Leader)**  
+   *Level:* National  *Type:* Innovation  *Date:* **2023**
 
-**"Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition – Second Prize (Team Leader)**  
-*Level:* National  *Type:* Innovation  *Date:* **2023**
+   **Best Poster Presentation – Guangdong Province Postgraduates Academic Forum**  
+   *Level:* Provincial  *Type:* Academic  *Date:* **2022**
 
-**Best Poster Presentation – Guangdong Province Postgraduates Academic Forum**  
-*Level:* Provincial  *Type:* Academic  *Date:* **2022**
+   **China Robot Competition – Second Prize (Team Leader)**  
+   *Level:* National  *Type:* Competition  *Date:* **2019**
 
-**China Robot Competition – Second Prize (Team Leader)**  
-*Level:* National  *Type:* Competition  *Date:* **2019**
-
-**ROBOCUP Robot World Cup China Competition – Second Prize**  
-*Level:* National  *Type:* Competition  *Date:* **2019**
+   **ROBOCUP Robot World Cup China Competition – Second Prize**  
+   *Level:* National  *Type:* Competition  *Date:* **2019**
 
