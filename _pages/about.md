@@ -20,7 +20,7 @@ redirect_from:
  <p>Hello, thank you for coming over. I am a PhD Student in the <a href="https://lisms.auckland.ac.nz">Laboratory for Industry 4.0 Smart Manufacturing Systems</a> at the Faculty of Engineering, University of Auckland. I am supervised by <a href="https://profiles.auckland.ac.nz/x-xu">Professor Xun Xu</a>. My research interests include <strong>smart manufacturing systems</strong>, <strong>autonomous manufacturing</strong>, and <strong>industrial AI</strong>. My current research focuses on agentic manufacturing, aiming to develop intelligent, autonomous manufacturing systems capable of self-organising manufacturing resources. </p>
   <p>Before joining the University of Auckland, I received my Master's degree from the <strong>University of Electronic Science and Technology of China (UESTC)</strong>, where I worked in the <a href="http://www.ultraxlab.com">Shensi Lab</a>. I obtained my Bachelor's degree from <strong>Zhengzhou University</strong>.</p>
   
-# 🔥 Research Focus a
+# 🔥 Research Focus
 1. **Agentic Manufacturing Systems** – Autonomous and intelligent manufacturing systems capable of self-organizing and coordinating manufacturing resources through multi-agent collaboration.
 2. **Industrial AI** – Data and learning-driven methods for process optimization, adaptive control, and decision-making in manufacturing.
 3. **Digital Twin and Smart Manufacturing** – Integration of digital twins and cyber-physical systems for connected, resilient production environments.. 
@@ -40,7 +40,7 @@ redirect_from:
 ### 📘 Book / Book Chapter
 1. *Flexible 3D Profile Roll Forming Technology.* In *Flexible Metal Forming Technologies*, Chapter 5, 2022. [DOI](https://doi.org/10.1007/978-981-19-1348-8)
 
-# 📖 Patent
+# 📖 PatentS
 #### 🏅 Granted Patents / 已授权专利
 1. *A Scan Measurement Device for Online Detection.* **一种可在线检测的扫描测量仪**  
    Yong Sun, **Yinwang Ren**, Jingsheng He, Qiuquan Guo, Dongxing Zhang, Jun Yang.  
