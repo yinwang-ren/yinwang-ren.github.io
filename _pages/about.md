@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about me'></span>
 # About Me
  <p>Hello, thank you for coming over. I am a PhD Student in the <a href="https://lisms.auckland.ac.nz">Laboratory for Industry 4.0 Smart Manufacturing Systems</a> at the Faculty of Engineering, University of Auckland. I am supervised by <a href="https://profiles.auckland.ac.nz/x-xu">Professor Xun Xu</a>. My research interests include <strong>smart manufacturing systems</strong>, <strong>autonomous manufacturing</strong>, and <strong>industrial AI</strong>. My current research focuses on agentic manufacturing, aiming to develop intelligent, autonomous manufacturing systems capable of self-organising manufacturing resources. </p>
   <p>Before joining the University of Auckland, I received my Master's degree from the <strong>University of Electronic Science and Technology of China (UESTC)</strong>, where I worked in the <a href="http://www.ultraxlab.com">Shensi Lab</a>. I obtained my Bachelor's degree from <strong>Zhengzhou University</strong>.</p>
@@ -23,8 +23,9 @@ redirect_from:
 # 🔥 Research Focus
 1. **Agentic Manufacturing Systems** – Autonomous and intelligent manufacturing systems capable of self-organizing and coordinating manufacturing resources through multi-agent collaboration.
 2. **Industrial AI** – Data and learning-driven methods for process optimization, adaptive control, and decision-making in manufacturing.
-3. **Digital Twin and Smart Manufacturing** – Integration of digital twins and cyber-physical systems for connected, resilient production environments.. 
-
+3. **Digital Twin and Smart Manufacturing** – Integration of digital twins and cyber-physical systems for connected, resilient production environments.
+4. 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 ### 🧠 Papers (First Author)
 1. **Yinwang Ren**, et al. (2025). AI Agents and Agentic AI-navigating a plethora of concepts for future manufacturing. _Journal of Manufacturing Systems_ <strong>(CAS Q1 Top Journal)</strong>. [DOI](https://doi.org/10.1016/j.jmsy.2025.08.017)  
@@ -40,6 +41,7 @@ redirect_from:
 ### 📘 Book / Book Chapter
 1. *Flexible 3D Profile Roll Forming Technology.* In *Flexible Metal Forming Technologies*, Chapter 5, 2022. [DOI](https://doi.org/10.1007/978-981-19-1348-8)
 
+<span class='anchor' id='patents'></span>
 # 📖 PatentS
 #### 🏅 Granted Patents / 已授权专利
 1. *A Scan Measurement Device for Online Detection.* **一种可在线检测的扫描测量仪**  
@@ -73,12 +75,15 @@ redirect_from:
 7. *One Residual Stress Detection Device and Method.* **一种残余应力检测装置及方法**  
    Yong Sun, Jun Yang, Dongxing Zhang, Qiuquan Guo, Shichao Ding, **Yinwang Ren**.
 
+<span class='anchor' id='conference participation'></span>
+
 # 🏃‍ Conference Participation
 - The 8th International Conference on Digital Twin and Intelligent Manufacturing Services, Hangzhou, China, July 2024.  
 - The 18th National Conference on Plastic Engineering & The 10th Global Chinese Plastic Technology Symposium, Wuhan, China, October 2023.  
 - 2023 NSFC-RGC Conference on Frontiers of Industrial Big Data and Intelligent Systems, Hong Kong, China, April 2023.  
 - The 19th International Conference on Metal Forming (MF 2022), Taiyuan, Shanxi, China, September 2022.
-
+  
+<span class='anchor' id='honors and awards'></span>
 # 🏆Honors and Awards
 
 **National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)**  
