@@ -84,18 +84,18 @@ redirect_from:
 - The 19th International Conference on Metal Forming (MF 2022), Taiyuan, Shanxi, China, September 2022.
   
 <span class='anchor' id='honors-and-awards'></span>
-# 🏆Honors and Awards
+# 🏆 Honors and Awards
 
-   **National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)**  
+   - **National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)**  
    *Level:* National    *Type:* Innovation    *Date:* **2025**
   
-   **National Graduate Scholarship**  
+   - **National Graduate Scholarship**  
    *Level:* National    *Type:* Honor         *Date:* **2023**
 
-   **National Graduate Scholarship**  
+   -  **National Graduate Scholarship**  
    *Level:* National    *Type:* Honor         *Date:* **2022**
 
-   **Sichuan Province Outstanding Graduate**  
+   - **Sichuan Province Outstanding Graduate**  
    *Level:* Provincial  *Type:* Honor         *Date:* **2023**
 
    **UESTC Outstanding Graduate**  
