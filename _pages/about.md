@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
- <p>Hello, thank you for coming over. I am a PhD Student in the <a href="https://lisms.auckland.ac.nz">Laboratory for Industry 4.0 Smart Manufacturing Systems</a> at the Faculty of Engineering, University of Auckland. I am supervised by <a href="https://profiles.auckland.ac.nz/x-xu">Professor Xun Xu</a>. My research interests include <strong>smart manufacturing systems</strong>, <strong>autonomous manufacturing</strong>, and <strong>industrial AI</strong>. My current research focuses on agentic manufacturing, aiming to develop intelligent, autonomous manufacturing systems capable of self-organising manufacturing resources. </p>
+ <p>Hello, thank you for coming over. I am a PhD Student in the <a href="https://lisms.auckland.ac.nz">Laboratory for Industry 4.0 Smart Manufacturing Systems</a> at the Faculty of Engineering, University of Auckland. I am supervised by <a href="https://profiles.auckland.ac.nz/x-xu">Professor Xun Xu</a> and <a href="https://profiles.auckland.ac.nz/jan-polzer">Dr.Jan Polzer</a>. My research interests include <strong>smart manufacturing systems</strong>, <strong>autonomous manufacturing</strong>, and <strong>industrial AI</strong>. My current research focuses on agentic manufacturing, aiming to develop intelligent, autonomous manufacturing systems capable of self-organising manufacturing resources. </p>
   <p>Before joining the University of Auckland, I received my Master's degree from the <strong>University of Electronic Science and Technology of China (UESTC)</strong>, where I worked in the <a href="http://www.ultraxlab.com">Shensi Lab</a>. I obtained my Bachelor's degree from <strong>Zhengzhou University</strong>.</p>
   
 # 🔥 Research Focus
