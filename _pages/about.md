@@ -24,6 +24,7 @@ redirect_from:
 1. **Agentic Manufacturing Systems** – Autonomous and intelligent manufacturing systems capable of self-organizing and coordinating manufacturing resources through multi-agent collaboration.
 2. **Industrial AI** – Data and learning-driven methods for process optimization, adaptive control, and decision-making in manufacturing.
 3. **Digital Twin and Smart Manufacturing** – Integration of digital twins and cyber-physical systems for connected, resilient production environments.
+
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 ### 🧠 Papers (First Author)
