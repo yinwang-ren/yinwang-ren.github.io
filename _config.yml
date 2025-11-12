@@ -26,7 +26,6 @@ author:
   bio              : # "Lorem ipsum College"
   location         : "Auckland, New Zealand"
   employer         :
-  orcid            : "https://orcid.org/0009-0003-0458-7750"
   googlescholar    : "https://scholar.google.com/citations?user=dPtQQFsAAAAJ&hl=zh-CN&oi=ao"
   email            : "ar184@aucklanduni.ac.com"
   researchgate     : "https://www.researchgate.net/profile/Yinwang-Ren?ev=hdr_xprf"
@@ -45,7 +44,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-0458-7750"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
