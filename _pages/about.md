@@ -98,18 +98,18 @@ redirect_from:
    - **Sichuan Province Outstanding Graduate**  
    *Level:* Provincial  *Type:* Honor         *Date:* **2023**
 
-   **UESTC Outstanding Graduate**  
+   - **UESTC Outstanding Graduate**  
    *Level:* University  *Type:* Honor         *Date:* **2023**
  
-   **"Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition – Second Prize (Team Leader)**  
+   - **"Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition – Second Prize (Team Leader)**  
    *Level:* National   *Type:* Innovation     *Date:* **2023**
 
-   **Best Poster Presentation – Guangdong Province Postgraduates Academic Forum**  
+   - **Best Poster Presentation – Guangdong Province Postgraduates Academic Forum**  
    *Level:* Provincial  *Type:* Academic      *Date:* **2022**
 
-   **China Robot Competition – Second Prize (Team Leader)**  
+   - **China Robot Competition – Second Prize (Team Leader)**  
    *Level:* National   *Type:* Competition    *Date:* **2019**
 
-   **ROBOCUP Robot World Cup China Competition – Second Prize**  
+   - **ROBOCUP Robot World Cup China Competition – Second Prize**  
    *Level:* National   *Type:* Competition    *Date:* **2019**
 
