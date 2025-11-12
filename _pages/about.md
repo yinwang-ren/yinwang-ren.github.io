@@ -51,7 +51,6 @@ redirect_from:
 3. *Method, System and Medium for Nonlinear Mechanics Simulation and Prediction of Solid Materials.* **一种用于固体材料非线性力学仿真与预测的方法、系统及介质**  
    Yong Sun, Jun Yang, Dongxing Zhang, Qiuquan Guo, Shichao Ding, **Yinwang Ren**.  
 
----
 #### 🔬 Pending Patents / 在审专利
 1. *An Artificial Intelligence Algorithm for Predicting and Controlling Roll Forming.* **一种用于预测与控制辊压成型的人工智能算法**  
    Yong Sun, **Yinwang Ren**, Jingsheng He, Qiuquan Guo, Dongxing Zhang, Jun Yang.  
