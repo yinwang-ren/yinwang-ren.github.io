@@ -90,34 +90,91 @@ redirect_from:
 - The 18th National Conference on Plastic Engineering & The 10th Global Chinese Plastic Technology Symposium, Wuhan, China, October 2023.  
 - 2023 NSFC-RGC Conference on Frontiers of Industrial Big Data and Intelligent Systems, Hong Kong, China, April 2023.  
 - The 19th International Conference on Metal Forming (MF 2022), Taiyuan, Shanxi, China, September 2022.
-  
+
 <span class='anchor' id='honors-and-awards'></span>
 # 🏆 Honors and Awards
 
-   - **National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)**  
-   *Level:* National    *Type:* Innovation    *Date:* **2025**
-  
-   - **National Graduate Scholarship**  
-   *Level:* National    *Type:* Honor         *Date:* **2023**
+<div class="awards-grid">
 
-   -  **National Graduate Scholarship**  
-   *Level:* National    *Type:* Honor         *Date:* **2022**
+<div class="award-card national">
+  <div class="award-title">🥈 National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)</div>
+  <div class="award-meta">
+    <span class="award-tag award-tag-national">National</span>
+    <span class="award-tag award-tag-innovation">Innovation</span>
+    <span class="award-tag award-tag-year">2025</span>
+  </div>
+</div>
 
-   - **Sichuan Province Outstanding Graduate**  
-   *Level:* Provincial  *Type:* Honor         *Date:* **2023**
+<div class="award-card national">
+  <div class="award-title">🎓 National Graduate Scholarship</div>
+  <div class="award-meta">
+    <span class="award-tag award-tag-national">National</span>
+    <span class="award-tag award-tag-honor">Honor</span>
+    <span class="award-tag award-tag-year">2023</span>
+  </div>
+</div>
 
-   - **UESTC Outstanding Graduate**  
-   *Level:* University  *Type:* Honor         *Date:* **2023**
- 
-   - **"Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition – Second Prize (Team Leader)**  
-   *Level:* National   *Type:* Innovation     *Date:* **2023**
+<div class="award-card national">
+  <div class="award-title">🎓 National Graduate Scholarship</div>
+  <div class="award-meta">
+    <span class="award-tag award-tag-national">National</span>
+    <span class="award-tag award-tag-honor">Honor</span>
+    <span class="award-tag award-tag-year">2022</span>
+  </div>
+</div>
 
-   - **Best Poster Presentation – Guangdong Province Postgraduates Academic Forum**  
-   *Level:* Provincial  *Type:* Academic      *Date:* **2022**
+<div class="award-card provincial">
+  <div class="award-title">🌟 Sichuan Province Outstanding Graduate</div>
+  <div class="award-meta">
+    <span class="award-tag award-tag-provincial">Provincial</span>
+    <span class="award-tag award-tag-honor">Honor</span>
+    <span class="award-tag award-tag-year">2023</span>
+  </div>
+</div>
 
-   - **China Robot Competition – Second Prize (Team Leader)**  
-   *Level:* National   *Type:* Competition    *Date:* **2019**
+<div class="award-card university">
+  <div class="award-title">🎖️ UESTC Outstanding Graduate</div>
+  <div class="award-meta">
+    <span class="award-tag award-tag-university">University</span>
+    <span class="award-tag award-tag-honor">Honor</span>
+    <span class="award-tag award-tag-year">2023</span>
+  </div>
+</div>
 
-   - **ROBOCUP Robot World Cup China Competition – Second Prize**  
-   *Level:* National   *Type:* Competition    *Date:* **2019**
+<div class="award-card national">
+  <div class="award-title">🏆 "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition – Second Prize (Team Leader)</div>
+  <div class="award-meta">
+    <span class="award-tag award-tag-national">National</span>
+    <span class="award-tag award-tag-innovation">Innovation</span>
+    <span class="award-tag award-tag-year">2023</span>
+  </div>
+</div>
 
+<div class="award-card provincial">
+  <div class="award-title">📌 Best Poster Presentation – Guangdong Province Postgraduates Academic Forum</div>
+  <div class="award-meta">
+    <span class="award-tag award-tag-provincial">Provincial</span>
+    <span class="award-tag award-tag-academic">Academic</span>
+    <span class="award-tag award-tag-year">2022</span>
+  </div>
+</div>
+
+<div class="award-card national">
+  <div class="award-title">🤖 China Robot Competition – Second Prize (Team Leader)</div>
+  <div class="award-meta">
+    <span class="award-tag award-tag-national">National</span>
+    <span class="award-tag award-tag-competition">Competition</span>
+    <span class="award-tag award-tag-year">2019</span>
+  </div>
+</div>
+
+<div class="award-card national">
+  <div class="award-title">🤖 ROBOCUP Robot World Cup China Competition – Second Prize</div>
+  <div class="award-meta">
+    <span class="award-tag award-tag-national">National</span>
+    <span class="award-tag award-tag-competition">Competition</span>
+    <span class="award-tag award-tag-year">2019</span>
+  </div>
+</div>
+
+</div>
