@@ -1,16 +1,17 @@
 # main links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "Publications"
-    url: "/#publications"
-
-  - title: "Patents"
-    url: "/#patents"
-
-  - title: "Conference Participation"
-    url: "/#conference-participation"
-
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+- title: "About Me"
+  title_zh: "关于我"
+  url: "/#about-me"
+- title: "Publications"
+  title_zh: "学术论文"
+  url: "/#publications"
+- title: "Patents"
+  title_zh: "专利"
+  url: "/#patents"
+- title: "Conference Participation"
+  title_zh: "学术会议"
+  url: "/#conference-participation"
+- title: "Honors and Awards"
+  title_zh: "荣誉与奖项"
+  url: "/#honors-and-awards"

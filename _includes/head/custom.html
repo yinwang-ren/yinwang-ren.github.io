@@ -2,22 +2,45 @@
 <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
 <link rel="manifest" href="images/site.webmanifest">
-
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
-
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
+MathJax.Hub.Config({
+tex2jax: {
+inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+processEscapes: true
+}
+});
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<style>
+.lang-toggle-btn {
+  background: none;
+  border: 1.5px solid #494e52;
+  border-radius: 4px;
+  color: #494e52;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 2px 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  line-height: 1.5;
+  vertical-align: middle;
+}
+.lang-toggle-btn:hover {
+  background: #494e52;
+  color: #fff;
+}
+.masthead__menu-item--lang {
+  display: flex;
+  align-items: center;
+}
+.lang-zh { display: none; }
+</style>
 
 <!-- end custom head snippets -->
